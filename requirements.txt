@@ -1,0 +1,2 @@
+# Add your project dependencies here
+django==1.2
