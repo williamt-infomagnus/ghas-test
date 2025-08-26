@@ -1,2 +1,2 @@
 # Add your project dependencies here
-django==1.2
+django==4.2.22
